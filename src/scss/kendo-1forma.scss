@@ -1,0 +1,10 @@
+/* Базовые единые стили для кендо в 1форма */
+
+@import 'variables';
+// @import "~@progress/kendo-theme-default/scss/all";
+
+/* Dialogs */
+
+.k-dialog .k-window-titlebar {
+    background: $dialogs-header-color;
+}
